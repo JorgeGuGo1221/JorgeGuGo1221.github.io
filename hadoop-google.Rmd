@@ -1,0 +1,6 @@
+---
+title: "hadoop google"
+author: "Jorge Guerrero"
+date: '2022-07-07'
+output: html_document
+---
